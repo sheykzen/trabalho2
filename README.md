@@ -5,4 +5,4 @@
 - Matricula:893647
 
 ## Print da tela da página criado
-![Print página](pagina-criada.pngpng)
+![Print página](pagina-criada.png)
